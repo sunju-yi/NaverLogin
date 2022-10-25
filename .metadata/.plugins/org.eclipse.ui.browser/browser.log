@@ -1,0 +1,49 @@
+
+10월 25, 2022 13:50:36.148 NEW SESSION
+10월 25, 2022 13:50:36.148 [19180:12496:1025/135036.144:ERROR:device_event_log_impl.cc(214)] [13:50:36.143] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+10월 25, 2022 13:50:36.150 [19180:12496:1025/135036.149:ERROR:device_event_log_impl.cc(214)] [13:50:36.148] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 13:50:36.152 [19180:12496:1025/135036.149:ERROR:device_event_log_impl.cc(214)] [13:50:36.149] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 13:50:36.162 [19180:12496:1025/135036.150:ERROR:device_event_log_impl.cc(214)] [13:50:36.149] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 13:50:36.164 [19180:12496:1025/135036.150:ERROR:device_event_log_impl.cc(214)] [13:50:36.149] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 13:51:20.760 [13676:18960:1025/135120.759:ERROR:device_event_log_impl.cc(214)] [13:51:20.759] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+10월 25, 2022 13:51:20.764 [13676:18960:1025/135120.763:ERROR:device_event_log_impl.cc(214)] [13:51:20.763] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 13:51:20.765 [13676:18960:1025/135120.764:ERROR:device_event_log_impl.cc(214)] [13:51:20.764] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 13:51:20.766 [13676:18960:1025/135120.764:ERROR:device_event_log_impl.cc(214)] [13:51:20.764] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 13:51:20.767 [13676:18960:1025/135120.764:ERROR:device_event_log_impl.cc(214)] [13:51:20.765] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 13:52:17.669 [13676:1824:1025/135217.668:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+10월 25, 2022 13:55:22.687 [13676:18960:1025/135522.687:ERROR:interface_endpoint_client.cc(689)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 25, 2022 13:57:59.394 [13676:18960:1025/135759.393:ERROR:interface_endpoint_client.cc(689)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+10월 25, 2022 14:52:07.738 NEW SESSION
+10월 25, 2022 14:52:07.739 [12364:15264:1025/145207.737:ERROR:device_event_log_impl.cc(214)] [14:52:07.737] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+10월 25, 2022 14:52:07.751 [12364:15264:1025/145207.750:ERROR:device_event_log_impl.cc(214)] [14:52:07.751] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 14:52:07.752 [12364:15264:1025/145207.752:ERROR:device_event_log_impl.cc(214)] [14:52:07.752] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 14:52:07.753 [12364:15264:1025/145207.752:ERROR:device_event_log_impl.cc(214)] [14:52:07.752] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 14:52:07.753 [12364:15264:1025/145207.752:ERROR:device_event_log_impl.cc(214)] [14:52:07.752] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 14:52:31.898 [12364:15264:1025/145231.897:ERROR:interface_endpoint_client.cc(689)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 25, 2022 14:53:04.129 [12364:19908:1025/145304.128:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+10월 25, 2022 14:59:17.586 [12364:15264:1025/145917.585:ERROR:interface_endpoint_client.cc(689)] Message 0 rejected by interface blink.mojom.WidgetHost
+10월 25, 2022 15:05:30.326 [16704:13416:1025/150530.324:ERROR:device_event_log_impl.cc(214)] [15:05:30.325] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+10월 25, 2022 15:05:30.328 [16704:13416:1025/150530.328:ERROR:device_event_log_impl.cc(214)] [15:05:30.328] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 15:05:30.329 [16704:13416:1025/150530.329:ERROR:device_event_log_impl.cc(214)] [15:05:30.329] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 15:05:30.331 [16704:13416:1025/150530.329:ERROR:device_event_log_impl.cc(214)] [15:05:30.329] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 15:05:30.332 [16704:13416:1025/150530.329:ERROR:device_event_log_impl.cc(214)] [15:05:30.329] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 15:06:24.168 [16704:3212:1025/150624.167:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+10월 25, 2022 15:11:56.698 [16704:13416:1025/151156.697:ERROR:device_event_log_impl.cc(214)] [15:11:56.693] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+10월 25, 2022 16:05:01.600 [2272:5924:1025/160501.599:ERROR:device_event_log_impl.cc(214)] [16:05:01.599] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+10월 25, 2022 16:05:01.603 [2272:5924:1025/160501.602:ERROR:device_event_log_impl.cc(214)] [16:05:01.602] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 16:05:01.605 [2272:5924:1025/160501.604:ERROR:device_event_log_impl.cc(214)] [16:05:01.604] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 16:05:01.606 [2272:5924:1025/160501.604:ERROR:device_event_log_impl.cc(214)] [16:05:01.604] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 16:05:01.607 [2272:5924:1025/160501.604:ERROR:device_event_log_impl.cc(214)] [16:05:01.604] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+10월 25, 2022 16:07:31.856 NEW SESSION
+10월 25, 2022 16:07:31.856 [1424:2900:1025/160731.851:ERROR:device_event_log_impl.cc(214)] [16:07:31.851] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+10월 25, 2022 16:07:31.858 [1424:2900:1025/160731.855:ERROR:device_event_log_impl.cc(214)] [16:07:31.855] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 16:07:31.860 [1424:2900:1025/160731.856:ERROR:device_event_log_impl.cc(214)] [16:07:31.856] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 16:07:31.861 [1424:2900:1025/160731.856:ERROR:device_event_log_impl.cc(214)] [16:07:31.856] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 16:07:31.863 [1424:2900:1025/160731.856:ERROR:device_event_log_impl.cc(214)] [16:07:31.856] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+10월 25, 2022 16:07:37.445 [1424:2900:1025/160737.444:ERROR:interface_endpoint_client.cc(689)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 25, 2022 16:08:25.907 [1424:5528:1025/160825.906:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+10월 25, 2022 16:11:38.828 [1424:2900:1025/161138.827:ERROR:interface_endpoint_client.cc(689)] Message 0 rejected by interface blink.mojom.WidgetHost
+10월 25, 2022 16:25:20.827 [1424:2516:1025/162520.827:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+10월 25, 2022 16:25:23.384 [1424:2516:1025/162523.384:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106

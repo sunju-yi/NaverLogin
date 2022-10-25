@@ -1,0 +1,8 @@
+package com.test.tst;
+
+public class DBController {
+	DBConnectBO dbConnectBO = new DBConnectBO();
+	dbConnectBO.getDBConnectBean().setUserName(naver_nickname);
+	
+	
+}
