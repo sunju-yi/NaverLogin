@@ -1,0 +1,35 @@
+package com.test.tst;
+
+import static org.junit.Assert.fail;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.junit.internal.runners.*;
+
+import lombok.extern.log4j.Log4j;
+
+@RunWith(JUnit4ClassRunner.class)
+@ContextConfiguration("file:src/main/webapp/WEB-INF/spring/root-context.xml")
+@Log4j
+public class DBController {
+	static {
+		try {
+			Class.forName("com.mysql.cj.jdbc.Driver");
+		}catch(Exception e) {
+			e.printStackTrace();
+		}
+	}
+	
+	@Test
+	public void testConnection() {
+		try(Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3360/scottDB?useSSL=false",
+				"scott",
+				"tiger")){log.info(con);}
+		catch(Exception e) {
+			fail(e.getMessage());
+		}
+	}
+}

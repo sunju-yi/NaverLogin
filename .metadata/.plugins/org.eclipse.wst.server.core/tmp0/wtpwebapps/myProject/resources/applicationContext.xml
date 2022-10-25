@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+	<property name="driverClassName" value="org.mysql.jdbc.Driver"></property>
+	<property name="url" value="jdbc:mysql://scottdb:3306/client_info?serverTimezone=Asia/Souel&useSSL=false&characterEncoding=utf8;"></property>
+	<property name ="username" value="gov"></property>
+	<property name="password" value="1234"></property>
+</bean>
